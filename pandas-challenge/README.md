@@ -1,1 +1,3 @@
-# pandas-challenge
+Data from 15 schools were collected with a total student count of 39,170. The average math score per student was 78.99 and the average reading score was 81.88. While approximately 75% of students passed math and 86% passed reading, only 65% of students passed both. There were two types of schools observed: charter and district. Charter schools had less students and slightly lower budgets per capita than district schools. 
+
+From this data the conclusion can be drawn that district schools had lower percentage of overall passing rates than the charter schools. There also did not seem to be a correlation between the per capita spending and budget and the passing rates. 
